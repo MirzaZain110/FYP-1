@@ -1,2 +1,2 @@
 # FYP-1
-This is private repo for our fyp-I
+This is repo for our fyp-I
