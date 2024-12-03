@@ -3,7 +3,7 @@
 Below are the images related to brainstorming ideas for EventCraft.
 
 ## Decoration and Catering
-![Decoration and Catering](https://github.com/MirzaZain110/FYP-1/new/main/1.%20Brainstorming/DecorationAndCatering.jpg)
+![Decoration and Catering](DecorationAndCatering.jpg)
 
 ## Event Problems
 ![Event Problems](EventsProblems.jpg)
